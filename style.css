@@ -1,0 +1,300 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lobster+Two&family=Nunito+Sans:wght@300;600&display=swap');
+
+            body {
+                background-color: #30312e;
+                margin: 0px;
+            }
+
+            article {
+                margin-top:5px;
+                background-position: center center;
+                background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://expatsguide.jp/wp/wp-content/uploads/Bread-Coffee-Ikedayama-Food.jpg);                
+                padding:5px;
+                text-align : center;
+                width: 49.455%;
+                float: left;
+                font-size: 20px;
+                color: #fff;
+                font-weight: 700;
+                background-size: cover;
+                border-bottom: solid 1.5px #fff;
+                border-top: solid 1.5px #fff;
+            }
+
+            header {
+                text-align: center;
+                padding: 10px;
+            }
+
+            aside {
+                margin-top:5px;
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://cdn.luxe.digital/media/2020/05/07203610/best-coffee-beans-luxe-digital.jpg);
+                padding:5px;
+                text-align : center;
+                width: 49.455%;
+                float: left;
+                font-size: 20px;
+                color: #fff;
+                font-weight: 700;
+                border-bottom: solid 1.5px #fff;
+                border-top: solid 1.5px #fff;
+            }
+
+            .main {
+                margin-top: 35px;
+                margin-bottom: 364.5px;
+            }
+            
+            section {
+                background-image: url("https://static.vecteezy.com/system/resources/previews/011/793/222/original/coffee-beans-isolated-png.png");
+                background-position: center bottom;
+                background-color: #30312e;
+                background-size: 1080px;
+                text-align : center;
+                font-size: 20px;
+                color: #fff;
+                font-weight: 700;
+                border-bottom: solid 1.5px #deab86;
+                border-top: solid 1.5px #deab86;
+            }
+
+            #menu {
+                height: 500px;
+                background-image: linear-gradient(rgba(31, 24, 19, 0.6), rgba(31, 24, 19, 0.6)), url("https://raw.githubusercontent.com/Denzeloid/Cafe-Project-Repository/main/Auburn-LA.jpeg");
+                background-position: center top;
+                background-color: #30312e;
+                background-size: auto;
+                background-position: center bottom;
+                text-align : center;
+                font-size: 20px;
+                color: #fff;
+                font-weight: 700;
+                margin-bottom: 100px;
+            }
+
+            .menuright {
+                height: 500px;
+                width: 40%;
+                background-color: rgba(31, 24, 19, 0.7);
+                text-align : center;
+                font-size: 20px;
+                color: #fff;
+                font-weight: 700;
+                float: right;
+            }
+
+            #franchise {
+                height: 519.5px;
+                background-image: linear-gradient(rgba(31, 24, 19, 0.6), rgba(31, 24, 19, 0.6)), url("https://static.vecteezy.com/system/resources/previews/002/187/654/large_2x/bags-of-coffee-beans-on-a-wooden-table-free-photo.jpg");
+                background-position: center top;
+                background-color: #30312e;
+                background-size: auto;
+                text-align : center;
+                font-size: 20px;
+                color: #fff;
+                font-weight: 700;
+                margin-bottom: 100px;
+                border-bottom: solid 1.5px #fff;
+                border-top: solid 1.5px #fff;
+            }
+
+            .about {
+                height: 519.5px;
+                background-image: linear-gradient(rgba(31, 24, 19, 0.6), rgba(31, 24, 19, 0.6)), url("https://koronapos.com/wp-content/uploads/2019/01/coffee-shop-pos-1-scaled.jpg");
+                background-position: center top;
+                background-color: #30312e;
+                background-size: auto;
+                text-align : center;
+                font-size: 20px;
+                color: #fff;
+                font-weight: 700;
+                margin-bottom: 100px;
+            }
+            
+            .about2 {
+                height: 519.5px;
+                background-image: linear-gradient(rgba(31, 24, 19, 0.6), rgba(31, 24, 19, 0.6)), url("https://koronapos.com/wp-content/uploads/2019/01/coffee-shop-pos-1-scaled.jpg");
+                background-position: center center;
+                background-color: #30312e;
+                background-size: auto;
+                    text-align : center;
+                font-size: 20px;
+                color: #fff;
+                font-weight: 700;
+                margin-bottom: 100px;
+                border-bottom: solid 1.5px #fff;
+                border-top: solid 1.5px #fff;
+            }
+
+            .about3 {
+                height: 519.5px;
+                background-image: linear-gradient(rgba(31, 24, 19, 0.6), rgba(31, 24, 19, 0.6)), url("https://koronapos.com/wp-content/uploads/2019/01/coffee-shop-pos-1-scaled.jpg");
+                background-position: center bottom;
+                background-color: #30312e;
+                background-size: auto;
+                text-align : center;
+                font-size: 20px;
+                color: #fff;
+                font-weight: 700;
+                margin-bottom: 100px;
+            }
+
+            .aboutright {
+                height: 500px;
+                width: 40%;
+                background-color: rgba(31, 24, 19, 0.7);
+                text-align : center;
+                font-size: 20px;
+                color: #fff;
+                font-weight: 700;
+                float: right;
+                padding: 10px;
+            }
+
+            .aboutleft {
+                height: 500px;
+                width: 40%;
+                background-color: rgba(31, 24, 19, 0.7);
+                text-align : center;
+                font-size: 20px;
+                color: #fff;
+                font-weight: 700;
+                float: left;
+                padding: 10px;
+            }
+
+            .itemholder {
+                width: 25%;
+                margin-left: 23%;
+                margin-right: 2%;
+                margin-bottom: 50px;
+                float: left;
+            }
+
+            .item {
+                width: 100%;
+                border-radius: 20px;
+                border: solid 1.5px #fff;
+            }
+
+            .itemname {
+                font-family: 'Nunito Sans', sans-serif;
+                padding-bottom: 5px;
+                border-bottom: solid 2px #fff;
+                text-align: left;
+                font-size: 30px;
+                color: #fff;
+            }
+
+            .itemholderright {
+                width: 25%;
+                margin-left: 1%;
+                margin-right: 20%;
+                margin-bottom: 50px;
+                float: left;
+            }
+
+            .itemright {
+                border-radius: 20px;
+                border: solid 1.5px #fff;
+                width: 100%;
+                
+            }
+            
+            .itemrow::after {
+                content: "";
+                clear: both;
+                display: table;
+            }
+
+            .menucont {
+                text-align: center;
+            }
+
+            #vidbox {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                font-family: 'Nunito Sans', sans-serif;
+                color: #fff;
+            }
+
+            footer {
+                padding:5px;
+                width: 99.8%;
+                background-color: #756457;
+                color: #fff;
+                font-family: 'Nunito Sans', sans-serif;
+                text-align: center;
+                font-weight: bold;
+            }
+            nav {
+                text-align: center;
+                background-color: #756457;  
+                padding: 5px;
+            }
+
+            .nav2 {
+                text-align: center;
+                background-color: #fff;  
+                padding: 0.5px;
+            }
+
+            
+            nav a {
+                color: #fff;
+                font-family: 'Nunito Sans', sans-serif;
+                padding-left:20px;
+                padding-right:20px;
+                text-align: left;
+                font-size:20px;
+                font-weight: bold;
+                text-decoration: none;
+            }
+
+            nav ul li, .nav2 li, .menuheader li, .vidheader li {
+                display: inline;
+            }
+            
+            .nav2 a, .menuheader, .vidheader {
+                color: #deab86;
+                font-family: 'Nunito Sans', sans-serif;
+                padding-left:20px;
+                padding-right:20px;
+                text-align: center;
+                font-size:16px;
+                font-weight: bold;
+                text-decoration: none;
+                background-color: #fff;
+            }
+
+            .btext {
+                font-family: 'Lobster Two', cursive;
+                color: #deab86;
+            }
+
+            .btextw {
+                font-family: 'Lobster Two', cursive;
+                color: #fff;
+            }
+
+            .main {
+                background-color: #fff;
+                font-family: 'Nunito Sans', sans-serif;
+            }
+
+            .main2 {
+                font-family: 'Nunito Sans', sans-serif;
+            }
+            
+            .main p, .main h1, .main h2, .main2 p, .main2 h1, .main2 h2 {
+                padding: 3px;
+            }
+
+            .nav2, aside, article, .menuheader, .item, .itemright, .franchise, .about, .about2, .about3, .vidheader {
+                box-shadow: 0 5px 4px 0 rgba(0,0,0,.4);
+            }
+
+            
